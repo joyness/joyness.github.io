@@ -38,14 +38,9 @@ My research interest includes:
 
 # 📝 Publications 
 
-### English 
----
--	`Jian Tang`, Rongbiao Wang, Gongzhe Qiu, Yu Hu, Yihua Kang. Mechanism of magnetic flux leakage detection method based on the slotted ferromagnetic lift-off layer. *Sensors*. 2022, 22(9): 3587. (JCR:Q2; IF:3.847)  
-[[HTML]](https://dx.doi.org/10.3390/s22093587) [[Preview]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/TangJ-2022-Mechanism%20of%20Magnetic%20Flux%20Leakage%20Detection%20Method%20Based%20on%20the%20Slotted.pdf) [[PDF]](/pdf/TangJ-2022-Mechanism%20of%20Magnetic%20Flux%20Leakage%20Detection%20Method%20Based%20on%20the%20Slotted.pdf)
-
 ### Journal publications
 ---
-- Y. Zhang, J. Li, T. A. Gulliver, H. Wu, G. Xie, X. Mei, J. Xian, W. Wang, L. Liang, "Metaheuristic Optimization for Robust RSSD-Based UAV Localization with Position Uncertainty, " Drones, vol. 9, no. 2, p. 147, 2025. (SCI，JCR Q1，IF： 4.4)
+- Y. Zhang, J. Li, T. A. Gulliver, H. Wu, G. Xie, X. Mei, J. Xian, W. Wang, L. Liang, "Metaheuristic Optimization for Robust RSSD-Based UAV Localization with Position Uncertainty, " Drones, vol. 9, no. 2, p. 147, 2025. (SCI，JCR Q1，IF： 4.4)[[HTML]](https://doi.org/10.3390/drones9020147) 
 - Y. Zhang, T. A. Gulliver, H. Wu, X. Mei, J. Li, F. Lu, W. Wang, "An Efficient Estimator for Source Localization in WSNs using RSSD and TDOA Measurements, " Pervasive and Mobile Computing, vol. 102, art. 101936, 2024. (SCI，JCR Q2，IF： 4.3)
 - Y. Zhang, H. Wu, T. A. Gulliver, X. Li, J. Li, J. Xian, W. Wang, "Real-Time RSS-based Target Localization for UWSNs using an IDE-BP Neural Network," Journal of Supercomputing, vol. 80, pp.20150-20175, 2024. (SCI，JCR Q2，IF： 3.3)
 - Y. Zhang, H. Wu, T. A. Gulliver, J. Xian, L. Liang, "Improved Differential Evolution for RSSD-Based Localization in Gaussian Mixture Noise," Computer Communications, vol. 206, pp. 51-59, 2023. (SCI，JCR Q1，IF：6.0)
