@@ -29,8 +29,6 @@ My research interest includes:
 
 
 # 🎓 Educations 
-- *2016.06 - 2022.12*, <a href="http://english.hust.edu.cn/"><img class="svg" src="/images/HUST_logo.svg" width="23pt"></a> School of Mechanical Science and Engineering, Huazhong University of Science and Technology, Wuhan China. 
-- *2012.09 - 2016.06*, <a href="https://en.scu.edu.cn/"><img class="svg" src="/images/SCU_logo.svg" width="20pt"></a> School of Manufacturing Science and Engineering, Sichuan University, Chengdu China. 
 - Ph.D. in Traffic Information Engineering and Control, Shanghai Maritime University, Apr. 2023 (Advisor: Prof. Huafeng Wu)
 - Visiting Ph.D. in the Electrical and Computer Engineering, University of Victoria, Victoria, Canada, Sep. 2021 - Sep. 2022 (Advisor: Prof. T. Aaron Gulliver)
 - M.S. in Traffic Information Engineering and Control, Shanghai Maritime University, Sep. 2023 (Advisor: Prof. Huafeng Wu) 
@@ -66,42 +64,23 @@ My research interest includes:
 -	J. Xian; Z. Li; H. Wu, W. Wang, X. Chen, X. Mei, Y. Zhang, B. Han; J. Ma, "Novel Polarization Construction Method and Synchronization Algorithm for Underwater Acoustic Channel under T-distribution Noise Environment," Journal of Marine Science and Engineering, vol. 13, no. 2, p. 362, 2025. (SCI，JCR Q1，IF：2.7) 
 -	L. Liang, H. Wu, X. Mei, Q. Zhang, Y. Zhang, J. Xian, K.-C. Li, "Robust 3D Target Localization in WSNs: A RotQCP Approach for NLOS Mitigation ” IEEE Internet of Things Journal, vol. 21, no. 5, p. 1724, 2025.（二审）(SCI，JCR Q1，IF：8.2)
 
-Conferences
-1.	J. Xian, Z. Li, H. Wu, X. Mei, X. Chen, Y. Zhang, L. Liang, Qi. Zhang, and W. Wang "A novel polar codes construction method for OFDM hydroacoustic communication system under t-distribution noise", Proc. SPIE 13542, Fourth International Computational Imaging Conference (CITA 2024), 135423S (25 February 2025).
-2.	X. Mei, H. Wu, J. Xian, H. Zhang, and Y. Zhang, “A Robust Localization with Outlier Measurements in Underwater Sensor Networks”, Proceedings of the 2019 Academic Conference of the Chinese Acoustics Society Hydroacoustic Branch, Nanjing, China.
+### Conferences
+---
+- J. Xian, Z. Li, H. Wu, X. Mei, X. Chen, Y. Zhang, L. Liang, Qi. Zhang, and W. Wang "A novel polar codes construction method for OFDM hydroacoustic communication system under t-distribution noise", Proc. SPIE 13542, Fourth International Computational Imaging Conference (CITA 2024), 135423S (25 February 2025).
+- X. Mei, H. Wu, J. Xian, H. Zhang, and Y. Zhang, “A Robust Localization with Outlier Measurements in Underwater Sensor Networks”, Proceedings of the 2019 Academic Conference of the Chinese Acoustics Society Hydroacoustic Branch, Nanjing, China.
 
-Submitted/prepared papers
+### Submitted/prepared papers
+---
 -	Y. Zhang, T. A. Gulliver, H. Wu, J. Li, X. Mei, J. Xian, K.-C. Li, “3-D RSSD Localization under Mixed Gaussian Noise and NLOS environments in UWSNs,” IEEE Internet of Things Journal, 2025.（under review）(SCI，JCR Q1，IF：8.2)
 -	L. Liang, H. Wu, X. Mei, Q. Zhang, Y. Zhang, J. Xian, K.-C. Li, "Robust 3D Target Localization in WSNs: A RotQCP Approach for NLOS Mitigation ” IEEE Internet of Things Journal, 2025.（under review）(SCI，JCR Q1，IF：8.2)
 -	Y. Zhang, G. Xie, T. A. Gulliver, H. Wu, X. Mei, “Bias Mitigation for RSSD-Based Localization under Byzantine Attacks,” Electronics Letters, 2024.（under review）
 -	Y. Zhang, et. al, “Maximum Correntropy Criterion Based Target tracking in NLOS UWSNs” (In preparation)
 -	Y. Zhang, et. al, “RSSD Based 3-D Localization under Spoofing Attacks for Internet of Underwater Things” (In preparation)
 
-
-
-### Chinese
----
-
--	`Jian Tang`, Rongbiao Wang, Yihua Kang. Magnetic flux leakage nondestructive testing with large lift-off. *Nondestructive Testing*. 2022,44(4): 67.  
-唐健, 王荣彪, 康宜华. 大提离漏磁无损检测方法. *无损检测*. 2022,44(4): 67.  
-[[HTML]](https://dx.doi.org/10.11973/wsjc202204000) [[Preview]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/%E5%94%90%E5%81%A5-2022-%E5%A4%A7%E6%8F%90%E7%A6%BB%E6%BC%8F%E7%A3%81%E6%97%A0%E6%8D%9F%E6%A3%80%E6%B5%8B%E6%96%B9%E6%B3%95.pdf) [[PDF]](/pdf/%E5%94%90%E5%81%A5-2022-%E5%A4%A7%E6%8F%90%E7%A6%BB%E6%BC%8F%E7%A3%81%E6%97%A0%E6%8D%9F%E6%A3%80%E6%B5%8B%E6%96%B9%E6%B3%95.pdf)  
-
-
-
-
-
-
 # 🏅 Honors and Awards
 - *2015.11*  Win the `1st Prize` in the 14th "Challenge Cup" National Undergraduate Curricular Academic Science and Technology Works Competition.
 - *2015.06* Win the `1st Prize` in the 13rd  "Challenge Cup" Sichuan Undergraduate Curricular Academic Science and Technology Works Competition. [[Newsreport]](https://www.sc.gov.cn/10462/10778/10876/2015/7/1/10341562.shtml)
 - *2014.12* Win the `1st Prize` in the 4th National Undergraduate Engineering Training Integration Ability Competition (Sichuan Division).
-
-# 💬 Conferences
-
-- *2021.10*, National Seminar on Electromagnetic Nondestructive Testing Technology and the 14th Plenary Session of the 11th Session of the Electromagnetic Professional Technology Conference of China, Xian China, Oral.
-- *2019.09*, The 19th International Symposium on Applied Electromagnetics and Mechanics (ISEM 2019), Nanjing China, Poster.
-- *2017.10*, The 6th China International Pipeline Conference (CIPC 2017), Langfang China, Visit.
-
 
 # 🏭 Internships
 - *2018.05 - 2020.02*, Chongqing Changjiang Bearing Co., Ltd., Chongqing China.
