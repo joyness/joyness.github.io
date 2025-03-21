@@ -26,12 +26,12 @@ My research interest includes:
 - localization and tracking
 - Intelligent prediction and deep learning
 
-
-
+# 📖 Work Experience
+- 2023.5 - present,	Lecturer, Changzhou Institute of Technology
 # 🎓 Educations 
 - Ph.D. in Traffic Information Engineering and Control, Shanghai Maritime University, Apr. 2023 (Advisor: Prof. Huafeng Wu)
 - Visiting Ph.D. in the Electrical and Computer Engineering, University of Victoria, Victoria, Canada, Sep. 2021 - Sep. 2022 (Advisor: Prof. T. Aaron Gulliver)
-- M.S. in Traffic Information Engineering and Control, Shanghai Maritime University, Sep. 2023 (Advisor: Prof. Huafeng Wu) 
+- M.S. in Traffic Information Engineering and Control, Shanghai Maritime University, Sep. 2023 (Advisor: Prof. Huafeng Wu)
 
 # 📝 Publications 
 
@@ -82,8 +82,6 @@ My research interest includes:
 - *2015.06* Win the `1st Prize` in the 13rd  "Challenge Cup" Sichuan Undergraduate Curricular Academic Science and Technology Works Competition. [[Newsreport]](https://www.sc.gov.cn/10462/10778/10876/2015/7/1/10341562.shtml)
 - *2014.12* Win the `1st Prize` in the 4th National Undergraduate Engineering Training Integration Ability Competition (Sichuan Division).
 
-# 🏭 Internships
-- *2018.05 - 2020.02*, Chongqing Changjiang Bearing Co., Ltd., Chongqing China.
-- *2020.11.25 - 2020.12.02*, Hubei Xinyegang Steel Ltd., Huangshi China.
-- *2017.6 - 2021.1*, Wuhan Huayu-M Testing Equipment Co., Ltd., Wuhan China.
+# 💬 News
+- 
   
