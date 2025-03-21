@@ -32,9 +32,9 @@ My research interest includes:
 - 2023.5 - present,	Lecturer, Changzhou Institute of Technology
 
 # 🎓 Educations 
-- Ph.D. in Traffic Information Engineering and Control, Shanghai Maritime University, Apr. 2023 (Advisor: Prof. Huafeng Wu(吴华锋教授(https://baike.baidu.com/item/%E5%90%B4%E5%8D%8E%E9%94%8B/5136139)))
-- Visiting Ph.D. in the Electrical and Computer Engineering, University of Victoria, Victoria, Canada, Sep. 2021 - Sep. 2022 (Advisor: Prof. T. Aaron Gulliver(https://www.uvic.ca/ecs/ece/faculty-and-staff/home/faculty/gullivert.-aaron.php))
-- M.S. in Traffic Information Engineering and Control, Shanghai Maritime University, Sep. 2023 (Advisor: Prof. Huafeng Wu(吴华锋教授(https://baike.baidu.com/item/%E5%90%B4%E5%8D%8E%E9%94%8B/5136139)))
+- Ph.D. in Traffic Information Engineering and Control, Shanghai Maritime University, Apr. 2023 (Advisor: Prof. Huafeng Wu(吴华锋教授[[HTML]](https://baike.baidu.com/item/%E5%90%B4%E5%8D%8E%E9%94%8B/5136139)))
+- Visiting Ph.D. in the Electrical and Computer Engineering, University of Victoria, Victoria, Canada, Sep. 2021 - Sep. 2022 (Advisor: Prof. T. Aaron Gulliver[[HTML]](https://www.uvic.ca/ecs/ece/faculty-and-staff/home/faculty/gullivert.-aaron.php))
+- M.S. in Traffic Information Engineering and Control, Shanghai Maritime University, Sep. 2023 (Advisor: Prof. Huafeng Wu(吴华锋教授[[HTML]](https://baike.baidu.com/item/%E5%90%B4%E5%8D%8E%E9%94%8B/5136139)))
 
 # 📝 Publications 
 
