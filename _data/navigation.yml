@@ -2,7 +2,10 @@
 main:
   - title: "Homepage"
     url: "/#homepage"
-
+    
+  - title: "Work Experience"
+    url: "/#-work-experience"
+    
   - title: "Educations"
     url: "/#-educations"
 
@@ -17,3 +20,6 @@ main:
 
   - title: "Acitivies"
     url: "/#-acitivies"
+    
+  - title: "News"
+    url: "/#-news"
