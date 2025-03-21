@@ -17,17 +17,15 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I graduated from School of Mechanical Science and Engineering,  Huazhong University of Science and Technology, Wuhan China. with a doctor’s degree, advised by Yihua Kang and from School of Mechanical Engineering, Sichuan University, Chengdu China with a bachelor’s degree. I have published 20+ papers with 
- <a href='https://scholar.google.com/citations?user=WMkMTb4AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
+I received my Ph.D degree in Traffic Information Engineering and Control from Shanghai Maritime University in 2023. From 2021 to 2022, I was a visiting Ph.D. Student in Electrical and Computer Engineering with the University of Victoria, Canada. I am currently a lecturer with the School of Computer and Information Engineering, Changzhou Institute of Technology. My research interests include wireless sensor networks, underwater acoustic sensor networks, localization and tracking, Intelligent prediction and deep learning, and so on. I have published 20+ papers with 
+ <a href='https://scholar.google.com.hk/citations?view_op=list_works&hl=zh-CN&hl=zh-CN&user=oZ7fkzcAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
 My research interest includes: 
-- Instrumentation
-- Nondestructive testing (NDT)
-- Magnetic flux leakage (MFL) detection
-- Eddy current testing (ECT)
-- Electromagnetic measurements
-- Magnetic sensors
-- Nondestructive testing equipment
+- wireless sensor networks(WSNs)
+- underwater acoustic sensor networks(UASNs)
+- localization and tracking
+- Intelligent prediction and deep learning
+
 
 
 # 🎓 Educations 
