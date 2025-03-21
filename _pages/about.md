@@ -63,7 +63,6 @@ My research interest includes:
 -  X. Mei, F. Miao, W. Wang, H. Wu, B. Han, Z. Wu, X. Chen, J. Xian, Y. Zhang, Y. Zang, "Enhanced Target Localization in the Internet of Underwater Things through Quantum-Behaved Metaheuristic Optimization with Multi-Strategy Integration," Journal of Marine Science and Engineering, vol. 12, no. 6, p. 1024, 2024. (SCI，JCR Q1，IF：2.7) 
 -	J. Xian, J. Ma, H. Wu, X. Mei, F. Tan, Y. Zhang, X. Chen, W. Wang, "Coarse-to-Fine Localization Method for UASNs under Unknown Multi-Parameters, " Control and Decision, 2024, doi: 10.13195/j.kzyjc.2024.0521. （EI）
 -	J. Xian; Z. Li; H. Wu, W. Wang, X. Chen, X. Mei, Y. Zhang, B. Han; J. Ma, "Novel Polarization Construction Method and Synchronization Algorithm for Underwater Acoustic Channel under T-distribution Noise Environment," Journal of Marine Science and Engineering, vol. 13, no. 2, p. 362, 2025. (SCI，JCR Q1，IF：2.7) 
--	L. Liang, H. Wu, X. Mei, Q. Zhang, Y. Zhang, J. Xian, K.-C. Li, "Robust 3D Target Localization in WSNs: A RotQCP Approach for NLOS Mitigation ” IEEE Internet of Things Journal, vol. 21, no. 5, p. 1724, 2025.（二审）(SCI，JCR Q1，IF：8.2)
 
 ### Conference publications
 ---
