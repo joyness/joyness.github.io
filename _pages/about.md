@@ -26,7 +26,7 @@ My research interest includes:
 - Wireless Communications, signal processing
 - Deep Learning and Intelligent Optimization
 
-###  Work Experience
+# 📖 Work Experience
 - 2023.5 - present,	Lecturer, Changzhou Institute of Technology
 
 # 🎓 Educations 
@@ -89,4 +89,7 @@ My research interest includes:
 
  
 # 💬 Acitivies
--     
+-
+
+# 💬 News 
+-
