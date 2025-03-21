@@ -54,7 +54,7 @@ My research interest includes:
 -  Y. Zhang, H. Wu, J. Xian, and X. Mei, “Adaptive clustering algorithm in Ocean Wireless Sensor Network under double constraints,” Computer Engineering Application, vol. 19, no. 55, pp. 128–133, 2019. （EI）
 -  H. Wu, Y. Zhang, J. Wang, W. Wang, J. Xian, J. Chen, X. Zhou, P. Mohapatra, "iOceanSee: A Novel Scheme for Ocean State Estimation Using 3D Mobile Convolutional Neural Network, " IEEE Access, vol. 8, pp. 153774-153786, 2020. (SCI，JCR Q2，IF：3.9)
 -  J. Li, Y. Zhang, L. Shen, J. Cao, W. Xie, Y. Zheng, S. Liu, "An Efficient and Secure Authentication Scheme with Session Key Negotiation for Timely Application of WSNs," KSII Transactions on Internet and Information Systems, vol. 18, no. 3, pp. 801-825, 2024. (SCI，JCR Q4，IF：1.5)
--  H. Wu, L. Liang, X. Mei, Y. Zhang, "A Convex Optimization Approach For NLOS Error Mitigation in TOA-Based Localization," IEEE Signal Processing Letters, vol. 29, pp. 677-681, 2022. (SCI，JCR Q2，中科院二区，IF：3.9)
+-  H. Wu, L. Liang, X. Mei, Y. Zhang, "A Convex Optimization Approach For NLOS Error Mitigation in TOA-Based Localization," IEEE Signal Processing Letters, vol. 29, pp. 677-681, 2022. (SCI，JCR Q2，IF：3.9)
 -  W. Wang, H. Wu, X. Kong, Y. Zhang, Y. Ye, Z. Zeng, J. Cheng, Q. Zhang, "Reinforcement Learning-based Dynamic Position Control of Mobile Node for Ocean Sensor Networks," Transactions of the Institute of Measurement and Control, vol. 44, no. 4, pp. 926-940, 2022. (SCI，JCR Q3，IF：1.8)
 -  J. Xian, H. Wu, X. Mei, Y. Zhang, X. Chen, Q. Zhang, L. Liang," Novel Energy-Efficient Opportunistic Routing Protocol for Marine Wireless Sensor Networks Based on Compressed Sensing and Power Control," Journal of Ocean University of China, vol. 21, no. 6, pp. 1504–1516, 2022. (SCI，JCR Q3，IF：1.6)
 -  J. Xian, H. Wu, X. Mei, Y. Zhang, H. Chen, J. Wang, "NMTLAT: A New robust mobile Multi-Target Localization and Tracking Scheme in marine search and rescue wireless sensor networks under Byzantine attack," Computer Communications, vol. 160, pp. 623–635, 2020. (SCI，JCR Q1，IF：6.0)
@@ -73,7 +73,9 @@ Conferences
 Submitted/prepared papers
 -	Y. Zhang, T. A. Gulliver, H. Wu, J. Li, X. Mei, J. Xian, K.-C. Li, “3-D RSSD Localization under Mixed Gaussian Noise and NLOS environments in UWSNs,” IEEE Internet of Things Journal, 2025.（under review）(SCI，JCR Q1，IF：8.2)
 -	L. Liang, H. Wu, X. Mei, Q. Zhang, Y. Zhang, J. Xian, K.-C. Li, "Robust 3D Target Localization in WSNs: A RotQCP Approach for NLOS Mitigation ” IEEE Internet of Things Journal, 2025.（under review）(SCI，JCR Q1，IF：8.2)
--	
+-	Y. Zhang, G. Xie, T. A. Gulliver, H. Wu, X. Mei, “Bias Mitigation for RSSD-Based Localization under Byzantine Attacks,” Electronics Letters, 2024.（under review）
+-	Y. Zhang, et. al, “Maximum Correntropy Criterion Based Target tracking in NLOS UWSNs” (In preparation)
+-	Y. Zhang, et. al, “RSSD Based 3-D Localization under Spoofing Attacks for Internet of Underwater Things” (In preparation)
 
 
 
