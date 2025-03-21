@@ -16,7 +16,7 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-
+#  homepage
 I received my Ph.D degree in Traffic Information Engineering and Control from Shanghai Maritime University in 2023. From 2021 to 2022, I was a visiting Ph.D. Student in Electrical and Computer Engineering with the University of Victoria, Canada. I am currently a lecturer with the School of Computer and Information Engineering, Changzhou Institute of Technology. My research interests include wireless sensor networks, underwater acoustic sensor networks, localization and tracking, Intelligent prediction and deep learning, and so on. I have published 20+ papers with 
  <a href='https://scholar.google.com.hk/citations?view_op=list_works&hl=zh-CN&hl=zh-CN&user=oZ7fkzcAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
@@ -26,7 +26,7 @@ My research interest includes:
 - localization and tracking
 - Intelligent prediction and deep learning
 
-#  Work Experience
+###  Work Experience
 - 2023.5 - present,	Lecturer, Changzhou Institute of Technology
 # 🎓 Educations 
 - Ph.D. in Traffic Information Engineering and Control, Shanghai Maritime University, Apr. 2023 (Advisor: Prof. Huafeng Wu)
@@ -82,9 +82,9 @@ My research interest includes:
 - *2015.06* Win the `1st Prize` in the 13rd  "Challenge Cup" Sichuan Undergraduate Curricular Academic Science and Technology Works Competition. [[Newsreport]](https://www.sc.gov.cn/10462/10778/10876/2015/7/1/10341562.shtml)
 - *2014.12* Win the `1st Prize` in the 4th National Undergraduate Engineering Training Integration Ability Competition (Sichuan Division).
 
-# 💬 News
-- 
+
 # 💬 Projects
+- *## 💬 News
 - 
-# 💬 Projects
+# 💬 Acitivies
 -     
