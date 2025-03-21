@@ -8,7 +8,7 @@
 # Site Settings
 title                    : "Yuanyuan Zhang"
 description              : "This is the academic homepage of Ph.D. ZHang."
-repository               : "joyness/yyzhang.github.io"
+repository               : "joyness.github.io"
 google_scholar_stats_use_cdn : false
 
 # google analytics
