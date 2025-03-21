@@ -26,7 +26,7 @@ My research interest includes:
 - localization and tracking
 - Intelligent prediction and deep learning
 
-# 📖 Work Experience
+#  Work Experience
 - 2023.5 - present,	Lecturer, Changzhou Institute of Technology
 # 🎓 Educations 
 - Ph.D. in Traffic Information Engineering and Control, Shanghai Maritime University, Apr. 2023 (Advisor: Prof. Huafeng Wu)
