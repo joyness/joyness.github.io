@@ -31,9 +31,9 @@ My research interest includes:
 # 🎓 Educations 
 - *2016.06 - 2022.12*, <a href="http://english.hust.edu.cn/"><img class="svg" src="/images/HUST_logo.svg" width="23pt"></a> School of Mechanical Science and Engineering, Huazhong University of Science and Technology, Wuhan China. 
 - *2012.09 - 2016.06*, <a href="https://en.scu.edu.cn/"><img class="svg" src="/images/SCU_logo.svg" width="20pt"></a> School of Manufacturing Science and Engineering, Sichuan University, Chengdu China. 
-- *Ph.D. in Traffic Information Engineering and Control, Shanghai Maritime University, Apr. 2023 (Advisor: Prof. Huafeng Wu)
-- *Visiting Ph.D. in the Electrical and Computer Engineering, University of Victoria, Victoria, Canada, Sep. 2021 - Sep. 2022 (Advisor: Prof. T. Aaron Gulliver)
-- *M.S. in Traffic Information Engineering and Control, Shanghai Maritime University, Sep. 2023 (Advisor: Prof. Huafeng Wu) 
+- Ph.D. in Traffic Information Engineering and Control, Shanghai Maritime University, Apr. 2023 (Advisor: Prof. Huafeng Wu)
+- Visiting Ph.D. in the Electrical and Computer Engineering, University of Victoria, Victoria, Canada, Sep. 2021 - Sep. 2022 (Advisor: Prof. T. Aaron Gulliver)
+- M.S. in Traffic Information Engineering and Control, Shanghai Maritime University, Sep. 2023 (Advisor: Prof. Huafeng Wu) 
 
 # 📝 Publications 
 
