@@ -39,71 +39,43 @@ My research interest includes:
 
 ### English 
 ---
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sensors 2022</div><img src='images/sensors2022.svg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
 -	`Jian Tang`, Rongbiao Wang, Gongzhe Qiu, Yu Hu, Yihua Kang. Mechanism of magnetic flux leakage detection method based on the slotted ferromagnetic lift-off layer. *Sensors*. 2022, 22(9): 3587. (JCR:Q2; IF:3.847)  
 [[HTML]](https://dx.doi.org/10.3390/s22093587) [[Preview]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/TangJ-2022-Mechanism%20of%20Magnetic%20Flux%20Leakage%20Detection%20Method%20Based%20on%20the%20Slotted.pdf) [[PDF]](/pdf/TangJ-2022-Mechanism%20of%20Magnetic%20Flux%20Leakage%20Detection%20Method%20Based%20on%20the%20Slotted.pdf)
 
-</div>
-</div>
+### Journals
+---
+- Y. Zhang, J. Li, T. A. Gulliver, H. Wu, G. Xie, X. Mei, J. Xian, W. Wang, L. Liang, "Metaheuristic Optimization for Robust RSSD-Based UAV Localization with Position Uncertainty, " Drones, vol. 9, no. 2, p. 147, 2025. (SCI，JCR Q1，IF： 4.4)
+- Y. Zhang, T. A. Gulliver, H. Wu, X. Mei, J. Li, F. Lu, W. Wang, "An Efficient Estimator for Source Localization in WSNs using RSSD and TDOA Measurements, " Pervasive and Mobile Computing, vol. 102, art. 101936, 2024. (SCI，JCR Q2，IF： 4.3)
+- Y. Zhang, H. Wu, T. A. Gulliver, X. Li, J. Li, J. Xian, W. Wang, "Real-Time RSS-based Target Localization for UWSNs using an IDE-BP Neural Network," Journal of Supercomputing, vol. 80, pp.20150-20175, 2024. (SCI，JCR Q2，IF： 3.3)
+- Y. Zhang, H. Wu, T. A. Gulliver, J. Xian, L. Liang, "Improved Differential Evolution for RSSD-Based Localization in Gaussian Mixture Noise," Computer Communications, vol. 206, pp. 51-59, 2023. (SCI，JCR Q1，IF：6.0)
+- Y. Zhang, H. Wu, T. A. Gulliver, J. Xian, W. Wang, "Fast Multi-Target Localization of RSSD in Wireless Sensor Networks," Transactions of the Institute of Measurement and Control, 2023, doi: 10.1177/01423312221148787. (SCI，JCR Q3，IF：1.8)
+- Y. Zhang, H. Wu, X. Mei, L. Liang, T. A. Gulliver, "Unknown Transmit Power RSSD Based Localization in a Gaussian Mixture Channel," IEEE Sensors Journal, vol. 22, no. 9, pp. 9114-9123, 2022. (SCI，JCR Q1，IF：4.3)
+- Y. Zhang, H. Wu, X. Mei, J. Xian, W. Wang, Q. Zhang, L. Liang, "Two-Phase Robust Target Localization in Ocean Sensor Networks Using Received Signal Strength Measurements," Sensors, vol. 21, no. 5, p. 1724, 2021. (SCI，JCR Q2，IF：3.9)
+-  Y. Zhang, H. Wu, J. Xian, and X. Mei, “Adaptive clustering algorithm in Ocean Wireless Sensor Network under double constraints,” Computer Engineering Application, vol. 19, no. 55, pp. 128–133, 2019. （EI）
+-  H. Wu, Y. Zhang, J. Wang, W. Wang, J. Xian, J. Chen, X. Zhou, P. Mohapatra, "iOceanSee: A Novel Scheme for Ocean State Estimation Using 3D Mobile Convolutional Neural Network, " IEEE Access, vol. 8, pp. 153774-153786, 2020. (SCI，JCR Q2，IF：3.9)
+-  J. Li, Y. Zhang, L. Shen, J. Cao, W. Xie, Y. Zheng, S. Liu, "An Efficient and Secure Authentication Scheme with Session Key Negotiation for Timely Application of WSNs," KSII Transactions on Internet and Information Systems, vol. 18, no. 3, pp. 801-825, 2024. (SCI，JCR Q4，IF：1.5)
+-  H. Wu, L. Liang, X. Mei, Y. Zhang, "A Convex Optimization Approach For NLOS Error Mitigation in TOA-Based Localization," IEEE Signal Processing Letters, vol. 29, pp. 677-681, 2022. (SCI，JCR Q2，中科院二区，IF：3.9)
+-  W. Wang, H. Wu, X. Kong, Y. Zhang, Y. Ye, Z. Zeng, J. Cheng, Q. Zhang, "Reinforcement Learning-based Dynamic Position Control of Mobile Node for Ocean Sensor Networks," Transactions of the Institute of Measurement and Control, vol. 44, no. 4, pp. 926-940, 2022. (SCI，JCR Q3，IF：1.8)
+-  J. Xian, H. Wu, X. Mei, Y. Zhang, X. Chen, Q. Zhang, L. Liang," Novel Energy-Efficient Opportunistic Routing Protocol for Marine Wireless Sensor Networks Based on Compressed Sensing and Power Control," Journal of Ocean University of China, vol. 21, no. 6, pp. 1504–1516, 2022. (SCI，JCR Q3，IF：1.6)
+-  J. Xian, H. Wu, X. Mei, Y. Zhang, H. Chen, J. Wang, "NMTLAT: A New robust mobile Multi-Target Localization and Tracking Scheme in marine search and rescue wireless sensor networks under Byzantine attack," Computer Communications, vol. 160, pp. 623–635, 2020. (SCI，JCR Q1，IF：6.0)
+-  H. Wu, J. Xian, X. Mei, Y. Zhang, J. Wang, J. Cao, and P. Mohapatra, "Efficient target detection in maritime search and rescue wireless sensor network using data fusion," Computer Communications, vol. 136, pp. 53–62, 2019. (SCI，JCR Q1，IF：6.0)
+-  J. Ma, J. Xian, H. Wu, Y. Yang, X. Mei, Y. Zhang, X. Chen, C. Zhou, "Novel High-Precision and High-Robustness Localization Algorithm for Underwater-Environment-Monitoring Wireless Sensor Networks," Journal of Marine Science and Engineering, vol. 11, no. 9, p. 1713, 2023. (SCI，JCR Q1，IF：2.7)
+-  Q. Zhang, H. Wu, L. Liang, X. Mei, J. Xian, Y. Zhang, "A Robust Sparse Sensor Placement Strategy Based on Indicators of Noise for Ocean Monitoring," Journal of Marine Science and Engineering, vol. 12, no. 7, p. 1220, 2024. (SCI，JCR Q1，IF：2.7)
+-  X. Mei, F. Miao, W. Wang, H. Wu, B. Han, Z. Wu, X. Chen, J. Xian, Y. Zhang, Y. Zang, "Enhanced Target Localization in the Internet of Underwater Things through Quantum-Behaved Metaheuristic Optimization with Multi-Strategy Integration," Journal of Marine Science and Engineering, vol. 12, no. 6, p. 1024, 2024. (SCI，JCR Q1，IF：2.7) 
+-	J. Xian, J. Ma, H. Wu, X. Mei, F. Tan, Y. Zhang, X. Chen, W. Wang, "Coarse-to-Fine Localization Method for UASNs under Unknown Multi-Parameters, " Control and Decision, 2024, doi: 10.13195/j.kzyjc.2024.0521. （EI）
+-	J. Xian; Z. Li; H. Wu, W. Wang, X. Chen, X. Mei, Y. Zhang, B. Han; J. Ma, "Novel Polarization Construction Method and Synchronization Algorithm for Underwater Acoustic Channel under T-distribution Noise Environment," Journal of Marine Science and Engineering, vol. 13, no. 2, p. 362, 2025. (SCI，JCR Q1，IF：2.7) 
+-	L. Liang, H. Wu, X. Mei, Q. Zhang, Y. Zhang, J. Xian, K.-C. Li, "Robust 3D Target Localization in WSNs: A RotQCP Approach for NLOS Mitigation ” IEEE Internet of Things Journal, vol. 21, no. 5, p. 1724, 2025.（二审）(SCI，JCR Q1，IF：8.2)
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sens. Actuators Phys. 2021</div><img src='images/sna2021.svg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+Conferences
+1.	J. Xian, Z. Li, H. Wu, X. Mei, X. Chen, Y. Zhang, L. Liang, Qi. Zhang, and W. Wang "A novel polar codes construction method for OFDM hydroacoustic communication system under t-distribution noise", Proc. SPIE 13542, Fourth International Computational Imaging Conference (CITA 2024), 135423S (25 February 2025).
+2.	X. Mei, H. Wu, J. Xian, H. Zhang, and Y. Zhang, “A Robust Localization with Outlier Measurements in Underwater Sensor Networks”, Proceedings of the 2019 Academic Conference of the Chinese Acoustics Society Hydroacoustic Branch, Nanjing, China.
 
--	`Jian Tang`, Rongbiao Wang, Bocheng Liu, Yihua Kang. A novel magnetic flux leakage method based on the ferromagnetic lift-off layer with through groove. *Sensors and Actuators A: Physical*. 2021: 113091. (JCR:Q1; IF:4.291)  
-[[HTML]](https://dx.doi.org/10.1016/j.sna.2021.113091) [[Preview]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/TangJ-2021-A%20novel%20magnetic%20flux%20leakage%20method%20based%20on%20the%20ferromagnetic%20lift-off%20layer.pdf) [[PDF]](/pdf/TangJ-2021-A%20novel%20magnetic%20flux%20leakage%20method%20based%20on%20the%20ferromagnetic%20lift-off%20layer.pdf)
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Int. J. Appl. Electrom. 2020</div><img src='images/ijaem2020.svg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
--	`Jian Tang`, Rongbiao Wang, Jikai Zhang, Yihua Kang. The influence of magnetic head’s pose on magnetic flux leakage detection. *International Journal of Applied Electromagnetics and Mechanics*. 2020, 64(1–4): 493–500. (JCR:Q4; IF:0.536)  
-[[HTML]](https://dx.doi.org/10.3233/JAE-209356) [[Preview]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/TangJ-2020-The%20influence%20of%20magnetic%20head%E2%80%99s%20pose%20on%20magnetic%20flux%20leakage%20detection.pdf) [[PDF]](/pdf/TangJ-2020-The%20influence%20of%20magnetic%20head%E2%80%99s%20pose%20on%20magnetic%20flux%20leakage%20detection.pdf)
-
-</div>
-</div>
-
-- Bo Feng, Jianbo Wu, Hongming Tu, `Jian Tang`, Yihua Kang. A Review of Magnetic Flux Leakage Nondestructive Testing. *Materials*. 2022, 15(20): 7362. (JCR:Q1; IF:3.748)  
-[[HTML]](https://dx.doi.org/10.3390/ma15207362) [[Preview]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/FengB-2022-A%20Review%20of%20Magnetic%20Flux%20Leakage%20Nondestructive%20Testing.pdf) [[PDF]](/pdf/FengB-2022-A%20Review%20of%20Magnetic%20Flux%20Leakage%20Nondestructive%20Testing.pdf)
-
-
-- Xin Jin, Hongbao Ma, `Jian Tang`, Yihua Kang, A Self-Adaptive Vibration Reduction Method Based on Deep Deterministic Policy Gradient (DDPG) Reinforcement Learning Algorithm. *Applied Sciences*. 2022,12(9): 9703. (JCR:Q2; IF:2.838)  
-[[HTML]](https://dx.doi.org/10.3390/app12199703) [[Preview]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/JinX-2022-A%20Self-Adaptive%20Vibration%20Reduction%20Method%20Based%20on%20Deep%20Deterministic%20Policy.pdf) [[PDF]](/pdf/JinX-2022-A%20Self-Adaptive%20Vibration%20Reduction%20Method%20Based%20on%20Deep%20Deterministic%20Policy.pdf)
-
-- Jikai Zhang, Yuewen Huang, `Jian Tang`, Fangfang Zhou, Yihua Kang, Bo Feng. Inspection of Cracks in the Piston Rod of a Hydraulic Cylinder Using Injected Alternating Current-Field Measurement. *Water*. 2022 14(17):2736. (JCR:Q2; IF:3.530)  
-[[HTML]](https://dx.doi.org/10.3390/w14172736) [[Preview]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/ZhangJ-2022-Inspection%20of%20Cracks%20in%20the%20Piston%20Rod%20of%20a%20Hydraulic%20Cylinder%20Using%20Injected.pdf) [[PDF]](/pdf/ZhangJ-2022-Inspection%20of%20Cracks%20in%20the%20Piston%20Rod%20of%20a%20Hydraulic%20Cylinder%20Using%20Injected.pdf)
-
-
--	Shenghan Wang, Bo Feng, `Jian Tang`, Yanting Chen, Yihua Kang. A Novel AC-MFL Probe Based on the Parallel Cables Magnetizing Technique. *Journal of Nondestructive Evaluation*. 2022, 41(2): 39. (JCR:Q2; IF:1.995)  
-[[HTML]](https://dx.doi.org/10.1007/s10921-022-00872-3) [[Preview]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/WangS-2022-A%20Novel%20AC-MFL%20Probe%20Based%20on%20the%20Parallel%20Cables%20Magnetizing%20Technique.pdf) [[PDF]](/pdf/WangS-2022-A%20Novel%20AC-MFL%20Probe%20Based%20on%20the%20Parallel%20Cables%20Magnetizing%20Technique.pdf)
+Submitted/prepared papers
+-	Y. Zhang, T. A. Gulliver, H. Wu, J. Li, X. Mei, J. Xian, K.-C. Li, “3-D RSSD Localization under Mixed Gaussian Noise and NLOS environments in UWSNs,” IEEE Internet of Things Journal, 2025.（under review）(SCI，JCR Q1，IF：8.2)
+-	L. Liang, H. Wu, X. Mei, Q. Zhang, Y. Zhang, J. Xian, K.-C. Li, "Robust 3D Target Localization in WSNs: A RotQCP Approach for NLOS Mitigation ” IEEE Internet of Things Journal, 2025.（under review）(SCI，JCR Q1，IF：8.2)
+-	
 
 
--	Rongbiao Wang, Yihua Kang, `Jian Tang`, Bo Feng, Yongle Deng. A Novel Magnetic Flux Leakage Testing Method Based on AC and DC Composite Magnetization. *Journal of Nondestructive Evaluation*. 2020, 39(4): 84. (JCR:Q2; IF:1.995)  
-[[HTML]](https://dx.doi.org/10.1007/s10921-020-00730-0) [[Preview]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/Wang-2020-A%20Novel%20Magnetic%20Flux%20Leakage%20Testing%20Method%20Based%20on%20AC%20and%20DC%20Composite.pdf) [[PDF]](/pdf/Wang-2020-A%20Novel%20Magnetic%20Flux%20Leakage%20Testing%20Method%20Based%20on%20AC%20and%20DC%20Composite.pdf)
-
-
-- Rongbiao Wang, `Jian Tang`, Zhiyang Deng, Yihua Kang. Motion induced eddy current based testing method for the detection of circumferential defects under circumferential magnetization. *International Journal of Applied Electromagnetics and Mechanics*. 2020, 64(1–4): 501–508. (JCR:Q4; IF:0.706)  
-[[HTML]](https://dx.doi.org/10.3233/JAE-209357) [[Preview]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/WangR-2020-Motion%20induced%20eddy%20current%20based%20testing%20method%20for%20the%20detection%20of.pdf) [[PDF]](/pdf/WangR-2020-Motion%20induced%20eddy%20current%20based%20testing%20method%20for%20the%20detection%20of.pdf)
-
-
--	Rongbiao Wang, Zhiyang Deng, Rui Liu, Yihua Kang, Jikai Zhang, `Jian Tang`. A large lift-off nondestructive testing method based on the interaction between AC magnetic field and MFL field. *23rd International Workshop on Electromagnetic Nondestructive Evaluation*, ENDE 2018. Detroit, MI, United States: IOS Press. 2019: 44–49. (EI)  
-[[HTML]](https://dx.doi.org/10.3233/SAEM190009) [[Preview]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/WangR-2019-A%20large%20lift-off%20nondestructive%20testing%20method%20based%20on%20the%20interaction%20between.pdf) [[PDF]](/pdf/WangR-2019-A%20large%20lift-off%20nondestructive%20testing%20method%20based%20on%20the%20interaction%20between.pdf)
-
-
-- Xiaoming Huang, Jianbo Wu, Jie Wang, Rongbiao Wang, `Jian Tang`, Yihua Kang, Hui Fang. Signal Characteristics of Circular Induction Coil Influenced by Scanning Spatial Location in MFL. *Materials Evaluation*. 2018, 76(12):1647–59. (JCR:Q4; IF:0.554)  
-[[HTML]](https://ndtlibrary.asnt.org/2018/SignalCharacteristicsofCircularInductionCoilInfluencedbyScanningSpatialLocationinMFL) [[Preview]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/Huang-2018-Signal%20Characteristics%20of%20Circular%20Induction%20Coil%20Influenced%20by%20Scanning.pdf) [[PDF]](/pdf/Huang-2018-Signal%20Characteristics%20of%20Circular%20Induction%20Coil%20Influenced%20by%20Scanning.pdf)
-
-
-
--	Erlong Li, Yihua Kang, `Jian Tang`, Jianbo Wu. A new micro magnetic bridge probe in magnetic flux leakage for detecting micro-cracks. *Journal of Nondestructive Evaluation*. 2018, 37(3): 46. (JCR:Q2; IF:1.995)  
-[[HTML]](https://dx.doi.org/10.1007/s10921-018-0499-8) [[Preview]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/Li-2018-A%20New%20Micro%20Magnetic%20Bridge%20Probe%20in%20Magnetic%20Flux%20Leakage%20for%20Detecting.pdf) [[PDF]](/pdf/Li-2018-A%20New%20Micro%20Magnetic%20Bridge%20Probe%20in%20Magnetic%20Flux%20Leakage%20for%20Detecting.pdf)
-
-
--	Erlong Li, Yihua Kang, `Jian Tang`, Jianbo Wu, Xizi Yan. Analysis on Spatial Spectrum of Magnetic Flux Leakage Using Fourier Transform. *IEEE Transactions on Magnetics*. 2018, 54(8): 1–10. (JCR:Q3; IF:1.700)  
-[[HTML]](https://dx.doi.org/10.1109/TMAG.2018.2844220) [[Preview]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/LiE-2018-Analysis%20on%20Spatial%20Spectrum%20of%20Magnetic%20Flux%20Leakage%20Using%20Fourier%20Transform.pdf) [[PDF]](/pdf/LiE-2018-Analysis%20on%20Spatial%20Spectrum%20of%20Magnetic%20Flux%20Leakage%20Using%20Fourier%20Transform.pdf)
 
 ### Chinese
 ---
@@ -113,40 +85,6 @@ My research interest includes:
 [[HTML]](https://dx.doi.org/10.11973/wsjc202204000) [[Preview]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/%E5%94%90%E5%81%A5-2022-%E5%A4%A7%E6%8F%90%E7%A6%BB%E6%BC%8F%E7%A3%81%E6%97%A0%E6%8D%9F%E6%A3%80%E6%B5%8B%E6%96%B9%E6%B3%95.pdf) [[PDF]](/pdf/%E5%94%90%E5%81%A5-2022-%E5%A4%A7%E6%8F%90%E7%A6%BB%E6%BC%8F%E7%A3%81%E6%97%A0%E6%8D%9F%E6%A3%80%E6%B5%8B%E6%96%B9%E6%B3%95.pdf)  
 
 
--	Bocheng Liu, `Jian Tang*`, Rongbiao Wang, Wenchao Ye, Yihua Kang. Magnetic Flux Leakage Testing Method of Bearing Roller Micro-cracks Based on TMR. *Instrument Technique and Sensor*. 2021(12): 111-114+118.   
-刘伯承, 唐健\*, 王荣彪, 叶文超, 康宜华. 基于TMR的轴承滚子微细裂纹漏磁检测方法. *仪表技术与传感器*. 2021(12): 111-114+118.  
-[[HTML]](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDAUTO&filename=YBJS202112021) [[Preview]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/%E5%88%98%E4%BC%AF%E6%89%BF-2021-%E5%9F%BA%E4%BA%8ETMR%E7%9A%84%E8%BD%B4%E6%89%BF%E6%BB%9A%E5%AD%90%E5%BE%AE%E7%BB%86%E8%A3%82%E7%BA%B9%E6%BC%8F%E7%A3%81%E6%A3%80%E6%B5%8B%E6%96%B9%E6%B3%95.pdf) [[PDF]](/pdf/%E5%88%98%E4%BC%AF%E6%89%BF-2021-%E5%9F%BA%E4%BA%8ETMR%E7%9A%84%E8%BD%B4%E6%89%BF%E6%BB%9A%E5%AD%90%E5%BE%AE%E7%BB%86%E8%A3%82%E7%BA%B9%E6%BC%8F%E7%A3%81%E6%A3%80%E6%B5%8B%E6%96%B9%E6%B3%95.pdf)  
-
--	Shenghan Wang, `Jian Tang*`, Jun Liu, Wenyu Chen, Yihua Kang. Array Magnetic Flux Leakage Testing Method and System Based on Twin-Robot Operation for Bearings. *Bearing*. 2021(01): 54-58+65.  
-汪圣涵, 唐健\*, 刘军, 陈文宇, 康宜华. 双机械手操作的轴承阵列漏磁检测方法与系统. *轴承*. 2021(01): 54-58+65.  
-[[HTML]](https://dx.doi.org/10.19533/j.issn1000-3762.2021.01.011) [[Preview]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/%E6%B1%AA%E5%9C%A3%E6%B6%B5-2021-%E5%8F%8C%E6%9C%BA%E6%A2%B0%E6%89%8B%E6%93%8D%E4%BD%9C%E7%9A%84%E8%BD%B4%E6%89%BF%E9%98%B5%E5%88%97%E6%BC%8F%E7%A3%81%E6%A3%80%E6%B5%8B%E6%96%B9%E6%B3%95%E4%B8%8E%E7%B3%BB%E7%BB%9F.pdf) [[PDF]](/pdf/%E6%B1%AA%E5%9C%A3%E6%B6%B5-2021-%E5%8F%8C%E6%9C%BA%E6%A2%B0%E6%89%8B%E6%93%8D%E4%BD%9C%E7%9A%84%E8%BD%B4%E6%89%BF%E9%98%B5%E5%88%97%E6%BC%8F%E7%A3%81%E6%A3%80%E6%B5%8B%E6%96%B9%E6%B3%95%E4%B8%8E%E7%B3%BB%E7%BB%9F.pdf)  
-
--	Yongle Deng, Rongbiao Wang, `Jian Tang`, Shenghan Wang, Yihua Kang. Magnetic bridge type displacement sensor array in square pulse magnetization. *Chinese Journal of Scientific Instrument*. 2021: 1–10. (EI)  
-邓永乐, 王荣彪, 唐健, 汪圣涵, 康宜华. 基于脉冲磁化的阵列磁桥式位移传感器. *仪器仪表学报*. 2021: 1–10.  
-[[HTML]](https://dx.doi.org/10.19650/j.cnki.cjsi.J2107388) [[Preview]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/%E9%82%93%E6%B0%B8%E4%B9%90-2021-%E5%9F%BA%E4%BA%8E%E8%84%89%E5%86%B2%E7%A3%81%E5%8C%96%E7%9A%84%E9%98%B5%E5%88%97%E7%A3%81%E6%A1%A5%E5%BC%8F%E4%BD%8D%E7%A7%BB%E4%BC%A0%E6%84%9F%E5%99%A8.pdf) [[PDF]](/pdf/%E9%82%93%E6%B0%B8%E4%B9%90-2021-%E5%9F%BA%E4%BA%8E%E8%84%89%E5%86%B2%E7%A3%81%E5%8C%96%E7%9A%84%E9%98%B5%E5%88%97%E7%A3%81%E6%A1%A5%E5%BC%8F%E4%BD%8D%E7%A7%BB%E4%BC%A0%E6%84%9F%E5%99%A8.pdf)  
-
-
--	Rongbiao Wang, Yihua Kang, Yongle Deng, Biyao Wang, Shenghan Wang, `Jian Tang`. Detection Method for Internal Wall Corrosion of Drill Pipes Based on MFL Testing under AC and DC Magnetization. *China Mechanical Engineering* . 2020: 1–6. (EI)  
-王荣彪, 康宜华, 邓永乐, 王碧瑶, 汪圣涵, 唐健. 钻杆内壁腐蚀的交直流复合磁化漏磁检测方法. *中国机械工程*. 2020: 1–6.  
-[[HTML]](https://dx.doi.org/10.3969/j.issn.1004-132X.2021.02.001) [[Preview]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/%E7%8E%8B%E8%8D%A3%E5%BD%AA-2020-%E9%92%BB%E6%9D%86%E5%86%85%E5%A3%81%E8%85%90%E8%9A%80%E7%9A%84%E4%BA%A4%E7%9B%B4%E6%B5%81%E5%A4%8D%E5%90%88%E7%A3%81%E5%8C%96%E6%BC%8F%E7%A3%81%E6%A3%80%E6%B5%8B%E6%96%B9%E6%B3%95.pdf) [[PDF]](/pdf/%E7%8E%8B%E8%8D%A3%E5%BD%AA-2020-%E9%92%BB%E6%9D%86%E5%86%85%E5%A3%81%E8%85%90%E8%9A%80%E7%9A%84%E4%BA%A4%E7%9B%B4%E6%B5%81%E5%A4%8D%E5%90%88%E7%A3%81%E5%8C%96%E6%BC%8F%E7%A3%81%E6%A3%80%E6%B5%8B%E6%96%B9%E6%B3%95.pdf)  
-
--	Bocheng Liu, Zhaoqi Duan, Chun Jiang, `Jian Tang`, Yihua Kang. Magnetic flux leakage detection of bearing roller microcracks. *Bearing*. 2021(08): 32–38.  
-刘伯承, 唐健, 王荣彪, 康宜华, 余平. 基于交流通电的钢球微细裂纹电磁检测方法. *轴承*. 2021(08): 32–38.  
-[[HTML]](https://dx.doi.org/10.19533/j.issn1000-3762.2021.08.007) [[Preview]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/%E5%88%98%E4%BC%AF%E6%89%BF-2021-%E5%9F%BA%E4%BA%8E%E4%BA%A4%E6%B5%81%E9%80%9A%E7%94%B5%E7%9A%84%E9%92%A2%E7%90%83%E5%BE%AE%E7%BB%86%E8%A3%82%E7%BA%B9%E7%94%B5%E7%A3%81%E6%A3%80%E6%B5%8B%E6%96%B9%E6%B3%95.pdf) [[PDF]](/pdf/%E5%88%98%E4%BC%AF%E6%89%BF-2021-%E5%9F%BA%E4%BA%8E%E4%BA%A4%E6%B5%81%E9%80%9A%E7%94%B5%E7%9A%84%E9%92%A2%E7%90%83%E5%BE%AE%E7%BB%86%E8%A3%82%E7%BA%B9%E7%94%B5%E7%A3%81%E6%A3%80%E6%B5%8B%E6%96%B9%E6%B3%95.pdf) 
-
--	Bocheng Liu, `Jian Tang`, Rongbiao Wang, Yihua Kang, Ping Yu. Electromagnetic Detection Method for Microcracks on Steel Balls Based on Alternating Current Energization. *Nondestructive Testing*. 2022, 44(11): 1-5.  
-刘伯承, 段兆祺, 姜春, 唐健, 康宜华. 轴承滚子微细裂纹的漏磁检测. *无损检测*, 2022, 44(11): 1-5.  
-[[HTML]](https://dx.doi.org/10.11973/wsjc202211001) [[Preview]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/%E5%88%98%E4%BC%AF%E6%89%BF-2022-%E8%BD%B4%E6%89%BF%E6%BB%9A%E5%AD%90%E5%BE%AE%E7%BB%86%E8%A3%82%E7%BA%B9%E7%9A%84%E6%BC%8F%E7%A3%81%E6%A3%80%E6%B5%8B.pdf) [[PDF]](/pdf/%E5%88%98%E4%BC%AF%E6%89%BF-2022-%E8%BD%B4%E6%89%BF%E6%BB%9A%E5%AD%90%E5%BE%AE%E7%BB%86%E8%A3%82%E7%BA%B9%E7%9A%84%E6%BC%8F%E7%A3%81%E6%A3%80%E6%B5%8B.pdf)  
-
-
--	Jie Meng, Erlong Li, `Jian Tang`, Yihua Kang. High Speed Magnetic Flux Leakage Detection System for Microcracks on Bearing Rings. *Bearing*. 2018(08): 66–70.  
-孟杰, 李二龙, 唐健, 康宜华. 轴承套圈裂纹高速漏磁检测系统. *轴承*. 2018(08): 66–70.  
-[[HTML]](https://dx.doi.org/10.19533/j.issn1000-3762.2018.08.015) [[Preview]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/%E5%AD%9F%E6%9D%B0-2018-%E8%BD%B4%E6%89%BF%E5%A5%97%E5%9C%88%E8%A3%82%E7%BA%B9%E9%AB%98%E9%80%9F%E6%BC%8F%E7%A3%81%E6%A3%80%E6%B5%8B%E7%B3%BB%E7%BB%9F.pdf) [[PDF]](/pdf/%E5%AD%9F%E6%9D%B0-2018-%E8%BD%B4%E6%89%BF%E5%A5%97%E5%9C%88%E8%A3%82%E7%BA%B9%E9%AB%98%E9%80%9F%E6%BC%8F%E7%A3%81%E6%A3%80%E6%B5%8B%E7%B3%BB%E7%BB%9F.pdf)  
-
-
--	Hang Yang, Shenghan Wang, `Jian Tang`, Yihua Kang. Automatic eddy current testing method and system for camshaft. *Nondestructive Testing*. 2020, 42(11): 61.  
-杨航, 汪圣涵, 唐健, 康宜华. 凸轮轴的自动化涡流检测方法与系统. *无损检测*. 2020, 42(11): 61.  
-[[HTML]](https://dx.doi.org/10.11973/wsjc202011013) [[Preview]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/%E6%9D%A8%E8%88%AA-2020-%E5%87%B8%E8%BD%AE%E8%BD%B4%E7%9A%84%E8%87%AA%E5%8A%A8%E5%8C%96%E6%B6%A1%E6%B5%81%E6%A3%80%E6%B5%8B%E6%96%B9%E6%B3%95%E4%B8%8E%E7%B3%BB%E7%BB%9F.pdf) [[PDF]](/pdf/%E6%9D%A8%E8%88%AA-2020-%E5%87%B8%E8%BD%AE%E8%BD%B4%E7%9A%84%E8%87%AA%E5%8A%A8%E5%8C%96%E6%B6%A1%E6%B5%81%E6%A3%80%E6%B5%8B%E6%96%B9%E6%B3%95%E4%B8%8E%E7%B3%BB%E7%BB%9F.pdf)  
 
 
 
