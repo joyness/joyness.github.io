@@ -75,17 +75,37 @@ My research interest includes:
 -	Y. Zhang, et. al, “RSSD Based 3-D Localization under Spoofing Attacks for Internet of Underwater Things” (In preparation)
 
 # 🏅 Honors and Awards
-- *2015.11*  Win the `1st Prize` in the 14th "Challenge Cup" National Undergraduate Curricular Academic Science and Technology Works Competition.
-- *2015.06* Win the `1st Prize` in the 13rd  "Challenge Cup" Sichuan Undergraduate Curricular Academic Science and Technology Works Competition. [[Newsreport]](https://www.sc.gov.cn/10462/10778/10876/2015/7/1/10341562.shtml)
-- *2014.12* Win the `1st Prize` in the 4th National Undergraduate Engineering Training Integration Ability Competition (Sichuan Division).
-
+- *2023* Win the Outstanding Research Award.
+- *2022* Win the Outstanding Research Award.
+- *2021* Win the National Study Abroad Fund(Awarded by China Scholarship Council (CSC)).
+- *2020* Win the Principal Scholarship(Awarded by Shanghai Maritime University, Office of Graduate Studies).
 
 # 💬 Projects
-- 
-
+### Principle Investigator
+---
+- Research on Key Technologies of Localization and Tracking in Ocean Sensor Networks, Grant No. CJ20240068 (Sponsored by Changzhou Science and Technology Committee)
+-	Application of Underwater Acoustics and Wireless Sensor Network in Transportation, Grant No. 202108310196 (Sponsored by China Scholarship Council)
+### Participation
+---
+- Theory and Key Technologies for Optimal Dynamic Deployment of Polar Situational Awareness Cluster System, Grant No. 52331012 (Sponsored by Natural Science Foundation of China)
+-	Research on Key Technologies and System Development of Communication and Navigation Support in the Arctic waterway, Grant No.2021YFC2801002 (Sponsored by National Ministry of Science and Technology)
+-	Dynamic Self-adaptive Clustering Based Intelligent Data Prediction and Reconstruction in Ocean Sensor Networks, Grant No. 52071200 (Sponsored by Natural Science Foundation of China)
+-	Research on Key Technologies of Distributed Estimation and Optimization of Marine Intelligent Clustered Sensor Networks Based on Deep reinforcement learning, Grant No. 23010502000 (Sponsored by Shanghai Science and Technology Committee)
+-	Three-Dimensional Dynamic Cooperative Localization Mechanism of Marine Sensor Networks Based on Wave Shadowing Effect Model, Grant No. 51579143 (Sponsored by Natural Science Foundation of China)
+-	Coastal Meteorological Monitoring and Warning System Based on Buoy Internet of Things and Its Navigation Aid Application, Grant No. 18040501700 (Sponsored by Shanghai Science and Technology Committee)
  
 # 🏭 Acitivies
--
+- China Computer Federation Member
+- China Highway& Transportation Society Member
+- Reviewer of IEEE Transactions on Signal and Information Processing over Networks
+- Reviewer of IEEE Transactions on Vehicular Technology
+- Reviewer of IEEE Signal Processing Letters
+- Reviewer of Journal of Supercomputing
+-	Reviewer of Concurrency and Computation: Practice and Experience
+-	Reviewer of IEEE Sensors Letters
+-	Reviewer of Sensors 
+-	Reviewer of Electronics
+
 
 # 🔥 News 
 -
