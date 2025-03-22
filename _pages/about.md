@@ -64,7 +64,7 @@ My research interest includes:
 
 ### Conference publications
 ---
-- J. Xian, Z. Li, H. Wu, X. Mei, X. Chen, <b>Y. Zhang</b>, L. Liang, Qi. Zhang, and W. Wang, "<b>A novel polar codes construction method for OFDM hydroacoustic communication system under t-distribution noise," Proc. SPIE 13542, Fourth International Computational Imaging Conference (CITA 2024), 135423S (25 February 2025).
+- J. Xian, Z. Li, H. Wu, X. Mei, X. Chen, <b>Y. Zhang</b>, L. Liang, Qi. Zhang, and W. Wang, "<b>A novel polar codes construction method for OFDM hydroacoustic communication system under t-distribution noise</b>," Proc. SPIE 13542, Fourth International Computational Imaging Conference (CITA 2024), 135423S (25 February 2025).
 - X. Mei, H. Wu, J. Xian, H. Zhang, and <b>Y. Zhang</b>, "<b>A Robust Localization with Outlier Measurements in Underwater Sensor Networks</b>," Proceedings of the 2019 Academic Conference of the Chinese Acoustics Society Hydroacoustic Branch, Nanjing, China.
 
 ### Submitted/prepared papers
