@@ -108,7 +108,7 @@ My research interest includes:
 -	Reviewer of Sensors 
 -	Reviewer of Electronics
 
-# 🏭 Teaching
+# 📝 Teaching
 -Literature Retrieval and Scientific Paper Writing, 2024-2025-2
 -Basics of Computer Circuits, 2024-2025-2
 -Digital Logic System Course Design, 2023-2024-1/2024-2025-1
