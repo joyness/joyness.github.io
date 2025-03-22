@@ -12,7 +12,7 @@ repository               : "joyness.github.io"
 google_scholar_stats_use_cdn : false
 
 # google analytics
-google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
+google_analytics_id      :  #get google_analytics_id from https://analytics.google.com/analytics/
 
 # SEO Related
 google_site_verification :  fQZQD0EwLaSOrp3EbALt2rjxHEY9pUvWuh1fS96xgNk # get google_site_verification from https://search.google.com/search-console/about
@@ -25,7 +25,7 @@ author:
   avatar           : "zhang.png"
   bio              : "Lecturer, Changzhou Institute of Technology"
   location         : "Changzhou, China"
-  employer         : #"Hefei General Machinery Research Institute"
+  employer         : #"Changzhou Institute of Technology"
   pubmed           : 
   googlescholar    : "https://scholar.google.com.hk/citations?view_op=list_works&hl=zh-CN&hl=zh-CN&user=oZ7fkzcAAAAJ"
   email            : "yyzhangJoy@163.com/zhangyy@czu.cn"
