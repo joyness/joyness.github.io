@@ -32,6 +32,7 @@ My research interest includes:
 - 2023.5 - present,	Lecturer, Changzhou Institute of Technology
 
 # 🎓 Educations 
+
 - Ph.D. in Traffic Information Engineering and Control, Shanghai Maritime University, Apr. 2023 (Advisor: Prof. Huafeng Wu(吴华锋教授[[HTML]](https://baike.baidu.com/item/%E5%90%B4%E5%8D%8E%E9%94%8B/5136139)))
 - Visiting Ph.D. in the Electrical and Computer Engineering, University of Victoria, Victoria, Canada, Sep. 2021 - Sep. 2022 (Advisor: Prof. T. Aaron Gulliver[[HTML]](https://www.uvic.ca/ecs/ece/faculty-and-staff/home/faculty/gullivert.-aaron.php))
 - M.S. in Traffic Information Engineering and Control, Shanghai Maritime University, Sep. 2023 (Advisor: Prof. Huafeng Wu(吴华锋教授[[HTML]](https://baike.baidu.com/item/%E5%90%B4%E5%8D%8E%E9%94%8B/5136139)))
@@ -85,6 +86,7 @@ My research interest includes:
 ---
 - Research on Key Technologies of Localization and Tracking in Ocean Sensor Networks, Grant No. CJ20240068 (Sponsored by Changzhou Science and Technology Committee)
 -	Application of Underwater Acoustics and Wireless Sensor Network in Transportation, Grant No. 202108310196 (Sponsored by China Scholarship Council)
+
 ### Participation
 ---
 - Theory and Key Technologies for Optimal Dynamic Deployment of Polar Situational Awareness Cluster System, Grant No. 52331012 (Sponsored by Natural Science Foundation of China)
@@ -106,6 +108,11 @@ My research interest includes:
 -	Reviewer of Sensors 
 -	Reviewer of Electronics
 
+# 🏭 Teaching
+-Literature Retrieval and Scientific Paper Writing, 2024-2025-2
+-Basics of Computer Circuits, 2024-2025-2
+-Digital Logic System Course Design, 2023-2024-1/2024-2025-1
+-Digital Logic and Digital System Design, 2023-2024-1/2024-2025-1
 
 # 🔥 News 
 -
