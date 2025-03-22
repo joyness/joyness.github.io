@@ -75,7 +75,7 @@ My research interest includes:
 -	Y. Zhang, et. al, “Maximum Correntropy Criterion Based Target tracking in NLOS UWSNs” (In preparation)
 -	Y. Zhang, et. al, “RSSD Based 3-D Localization under Spoofing Attacks for Internet of Underwater Things” (In preparation)
 
-# 🏅 Honors and Awards
+# 🎖 Honors and Awards
 - *2023* Win the Outstanding Research Award.
 - *2022* Win the Outstanding Research Award.
 - *2021* Win the National Study Abroad Fund(Awarded by China Scholarship Council (CSC)).
