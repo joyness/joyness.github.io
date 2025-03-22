@@ -20,6 +20,9 @@ main:
 
   - title: "Acitivies"
     url: "/#-acitivies"
+
+  - title: "Teaching"
+    url: "/#-teaching"
     
   - title: "News"
     url: "/#-news"
