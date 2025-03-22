@@ -23,8 +23,6 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Yuanyuan Zhang(张媛媛)"
   avatar           : "zhang.png"
-  <table class="imgtable"><tr><td>
-<img src="files/zhang.png" alt="photo" width="180px" height="230px">&nbsp;</td>
   bio              : "Lecturer, Changzhou Institute of Technology"
   location         : "Changzhou, China"
   employer         : #"Changzhou Institute of Technology"
