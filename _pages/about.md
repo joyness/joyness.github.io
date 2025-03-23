@@ -76,7 +76,17 @@ My research interest includes:
 -	Y. Zhang, et. al, “RSSD Based 3-D Localization under Spoofing Attacks for Internet of Underwater Things” (In preparation)
 
 # 📃 Patents
-- 
+- <b>Y. Zhang</b>, J. Li, P. Wang et al, “A Robust Positioning Method for Wireless Sensor Networks with Uncertain Anchor Position” CN Patent, 202410569694.4. (Submitted).
+-	<b>Y. Zhang</b>, J. Li, L. Gu et al, “A Method and System for Constructing Efficient Estimator for Source Localization based on Mixed Measurement Information” CN Patent, 202410434928.4. (Submitted).
+-	H. Wu, <b>Y. Zhang</b>, “An Estimation Method and Device of Wave Parameter”, CN Patent, 202010994654.6. (Granted)
+-	H. Wu, <b>Y. Zhang</b> et al, “A Real-time Underwater Acoustic Positioning Algorithm based on the IDE-BP Neural Network”, CN Patent, 202310306368.X (Substantive examination)
+-	H. Wu, <b>Y. Zhang</b> et al, “A RSSD localization method in Gaussian mixture noise environment”, CN Patent, 202211551709.1 (Substantive examination)
+-	H. Wu, <b>Y. Zhang</b> et al, “A Multi-Target Positioning Method, Device, and Medium for Alleviating Non-line-of-sight effects”, CN Patent, 202211575091.2 (Substantive examination)
+-	L. Gu, B. Chen, <b>Y. Zhang</b> et al, “A Full-node Detection Method for Brain Functional Network based on Random Matrix Analysis” CN Patent, 202410929069.6. (Submitted).
+-	J. Xian, J. Ma, H. Wu, Y. Yang, <b>Y. Zhang</b> et al, “A Method and Device for Reconstructing Lost Data in a Marine Wireless Sensor Network”, CN Patent, 202310897506.6. (Substantive examination)
+-	H. Wu, J. Xian, X. Mei, X. Chen, <b>Y. Zhang</b> et al, “An Opportunistic Routing Protocol for Maritime Wireless Sensor Networks”, CN Patent, 202111020086.0 (Substantive examination)
+-	J. Xian, J. Ma, H. Wu, X. Mei, W. Wang, <b>Y. Zhang</b> et al, “A Highly Reliable and Robust Routing Method for Maritime Search and Rescue Wireless Sensor Networks”, CN Patent, 202311207371.2 (Substantive examination)
+-	J. Xian, J. Ma, H. Wu, Y. Yang, X. Mei, X. Chen, and <b>Y. Zhang</b>, “A Marine Search and Rescue Wireless Sensor Network Communication Method, Device and Storage Medium”, CN Patent, 202210840637.6. (Substantive examination)
 
 # 🎖 Honors and Awards
 - *2023* Win the Outstanding Research Award.
