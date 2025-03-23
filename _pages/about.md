@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 # 👋 Homepage
 
-I received my Ph.D degree in Traffic Information Engineering and Control from <a href="https://www.shmtu.edu.cn/">Shanghai Maritime University</a> in 2023. From 2021 to 2022, I was a visiting Ph.D. Student in Electrical and Computer Engineering with the <a href="https://www.uvic.ca/">University of Victoria</a>, Canada. I am currently a lecturer with the School of Computer and Information Engineering, <a href="https://www.czu.cn/">Changzhou Institute of Technology</a>. I have published 20+ papers with 
+I received my Ph.D degree in Traffic Information Engineering and Control from Shanghai Maritime University(<a href="https://www.shmtu.edu.cn/">上海海事大学</a>) in 2023. From 2021 to 2022, I was a visiting Ph.D. Student in Electrical and Computer Engineering with the <a href="https://www.uvic.ca/">University of Victoria</a>, Canada. I am currently a lecturer with the School of Computer and Information Engineering, Changzhou Institute of Technology (<a href="https://www.czu.cn/">常州工学院</a>). I have published 20+ papers with 
  <a href='https://scholar.google.com.hk/citations?view_op=list_works&hl=zh-CN&hl=zh-CN&user=oZ7fkzcAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations">
 
 My research interest includes: 
