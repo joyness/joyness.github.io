@@ -16,7 +16,7 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-# Homepage
+# 👋 Homepage
 
 I received my Ph.D degree in Traffic Information Engineering and Control from <a href="https://www.shmtu.edu.cn/">Shanghai Maritime University</a> in 2023. From 2021 to 2022, I was a visiting Ph.D. Student in Electrical and Computer Engineering with the <a href="https://www.uvic.ca/">University of Victoria</a>, Canada. I am currently a lecturer with the School of Computer and Information Engineering, <a href="https://www.czu.cn/">Changzhou Institute of Technology</a>. I have published 20+ papers with 
  <a href='https://scholar.google.com.hk/citations?view_op=list_works&hl=zh-CN&hl=zh-CN&user=oZ7fkzcAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.<span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span>
@@ -74,7 +74,8 @@ My research interest includes:
 -	Y. Zhang, G. Xie, T. A. Gulliver, H. Wu, X. Mei, “Bias Mitigation for RSSD-Based Localization under Byzantine Attacks,” Electronics Letters, 2024.（under review）
 -	Y. Zhang, et. al, “Maximum Correntropy Criterion Based Target tracking in NLOS UWSNs” (In preparation)
 -	Y. Zhang, et. al, “RSSD Based 3-D Localization under Spoofing Attacks for Internet of Underwater Things” (In preparation)
-
+# 📃 Patents
+- 
 # 🎖 Honors and Awards
 - *2023* Win the Outstanding Research Award.
 - *2022* Win the Outstanding Research Award.
