@@ -60,7 +60,8 @@ My research interest includes:
 -  Q. Zhang, H. Wu, L. Liang, X. Mei, J. Xian, <b>Y. Zhang</b>, "<b>A Robust Sparse Sensor Placement Strategy Based on Indicators of Noise for Ocean Monitoring</b>," <i>Journal of Marine Science and Engineering</i>, vol. 12, no. 7, p. 1220, 2024. (SCI，JCR Q1，IF：2.7)
 -  X. Mei, F. Miao, W. Wang, H. Wu, B. Han, Z. Wu, X. Chen, J. Xian, <b>Y. Zhang</b>, Y. Zang, "<b>Enhanced Target Localization in the Internet of Underwater Things through Quantum-Behaved Metaheuristic Optimization with Multi-Strategy Integration</b>," <i>Journal of Marine Science and Engineering</i>, vol. 12, no. 6, p. 1024, 2024. (SCI，JCR Q1，IF：2.7) 
 -	J. Xian, J. Ma, H. Wu, X. Mei, F. Tan, <b>Y. Zhang</b>, X. Chen, W. Wang, "<b>Coarse-to-Fine Localization Method for UASNs under Unknown Multi-Parameters</b>, "<i> Control and Decision</i>, 2024, doi: 10.13195/j.kzyjc.2024.0521. （EI）
--	J. Xian; Z. Li; H. Wu, W. Wang, X. Chen, X. Mei, <b>Y. Zhang</b>, B. Han; J. Ma, "<b>Novel Polarization Construction Method and Synchronization Algorithm for Underwater Acoustic Channel under T-distribution Noise Environment</b>," <i>Journal of Marine Science and Engineering</i>, vol. 13, no. 2, p. 362, 2025. (SCI，JCR Q1，IF：2.7) 
+-	J. Xian, J. Ma, X. Chen, H. Wu, X. Mei, <b>Y. Zhang</b>, W. Wang, "<b>Robust and Precise Drowning Target Localization under Dual-parameters Uncertainty</b>, " <i>Regional Studies in Marine Science</i>, 2025: 104131.(SCI，JCR Q2， IF：2.1)
+-	J. Xian; Z. Li; H. Wu, W. Wang, X. Chen, X. Mei, <b>Y. Zhang</b>, B. Han; J. Ma, "<b>Novel Polarization Construction Method and Synchronization Algorithm for Underwater Acoustic Channel under T-distribution Noise Environment</b>," <i>Journal of Marine Science and Engineering</i>, vol. 13, no. 2, p. 362, 2025. (SCI，JCR Q1，IF：2.7)
 
 ### Conference publications
 ---
