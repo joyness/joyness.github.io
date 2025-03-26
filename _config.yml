@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Yuanyuan Zhang(张媛媛)"
-description              : #"Welcome to my website"
+description              : "Changzhou Institute of Technology"
 repository               : "joyness.github.io"
 #google_scholar_stats_use_cdn : false
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Yuanyuan Zhang<br>(张媛媛)"
   avatar           : "images/android-chrome-192x192.png"
-  bio              : "Lecturer, Changzhou Institute of Technology"
+  bio              : "Lecturer with the School of Computer and Information Engineering, Changzhou Institute of Technology"
   location         : "Changzhou, China"
   employer         : #"Changzhou Institute of Technology"
   pubmed           : 
