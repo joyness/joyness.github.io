@@ -124,7 +124,7 @@ My research interest includes:
 
 # 📚 Teaching
 - Literature Retrieval and Scientific Paper Writing, 2024-2025-2
-- Basics of Computer Circuits, 2024-2025-2
+- Basics of Computer Circuits, 2023-2024-2/2024-2025-2
 - Digital Logic System Course Design, 2023-2024-1/2024-2025-1
 - Digital Logic and Digital System Design, 2023-2024-1/2024-2025-1
 
