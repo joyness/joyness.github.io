@@ -123,6 +123,7 @@ My research interest includes:
 -	Reviewer of Photonics
 -	Reviewer of Sensors 
 -	Reviewer of Electronics
+-	Reviewer of Applied Sciences 
 
 # 📚 Teaching
 - Literature Retrieval and Scientific Paper Writing, 2024-2025-2
