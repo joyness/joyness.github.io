@@ -112,7 +112,7 @@ My research interest includes:
  
 # 🏭 Acitivies
 - China Computer Federation Member
-- China Highway& Transportation Society Member
+- China Highway & Transportation Society Member
 - Reviewer of IEEE Transactions on Signal and Information Processing over Networks
 - Reviewer of IEEE Transactions on Vehicular Technology
 - Reviewer of IEEE Signal Processing Letters
@@ -123,7 +123,6 @@ My research interest includes:
 -	Reviewer of Photonics
 -	Reviewer of Sensors 
 -	Reviewer of Electronics
--	Reviewer of Applied Sciences 
 
 # 📚 Teaching
 - Literature Retrieval and Scientific Paper Writing, 2024-2025-2
