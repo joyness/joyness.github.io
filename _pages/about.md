@@ -129,9 +129,9 @@ My research interest includes:
 - Digital Logic and Digital System Design, 2023-2024-1/2024-2025-1
 
 # 🔥 News 
-- Apr. 30, 2025: Our paper entitled “<b>3-D RSSD Localization under Mixed Gaussian Noise and NLOS environments in UWSNs</b>” has been accepted in <b>IEEE Internet of Things Journal</b>.
-- Mar. 13, 2025: Our paper entitled “<b>Robust and Precise Drowning Target Localization under Dual-parameters Uncertainty</b>” has been published in <b>Regional Studies in Marine Science</b>.
-- Feb. 15, 2025: Our paper entitled “<b>Novel Polarization Construction Method and Synchronization Algorithm for Underwater Acoustic Channel Under T-Distribution Noise Environment</b>” has been published in <b>Journal of Marine Science and Engineering</b>.
+- Apr. 30, 2025: Our paper entitled “<b>3-D RSSD Localization under Mixed Gaussian Noise and NLOS environments in UWSNs</b>” has been accepted in <i>IEEE Internet of Things Journal</i>.
+- Mar. 13, 2025: Our paper entitled “<b>Robust and Precise Drowning Target Localization under Dual-parameters Uncertainty</b>” has been published in <i>Regional Studies in Marine Science</i>.
+- Feb. 15, 2025: Our paper entitled “<b>Novel Polarization Construction Method and Synchronization Algorithm for Underwater Acoustic Channel Under T-Distribution Noise Environment</b>” has been published in <i>Journal of Marine Science and Engineering</i>.
 
 [<a href="C.V_English_yyzhang.pdf">Bio/CV</a>]
 
