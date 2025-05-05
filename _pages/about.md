@@ -70,7 +70,6 @@ My research interest includes:
 
 ### Submitted/prepared papers
 ---
--	Y. Zhang, T. A. Gulliver, H. Wu, J. Li, X. Mei, J. Xian, K.-C. Li, “3-D RSSD Localization under Mixed Gaussian Noise and NLOS environments in UWSNs,” IEEE Internet of Things Journal, 2025.（under review）(SCI，JCR Q1，IF：8.2)
 -	L. Liang, H. Wu, X. Mei, Q. Zhang, Y. Zhang, J. Xian, K.-C. Li, "Robust 3D Target Localization in WSNs: A RotQCP Approach for NLOS Mitigation ” IEEE Internet of Things Journal, 2025.（under review）(SCI，JCR Q1，IF：8.2)
 -	Y. Zhang, G. Xie, T. A. Gulliver, H. Wu, X. Mei, “Bias Mitigation for RSSD-Based Localization under Byzantine Attacks,” Electronics Letters, 2024.（under review）
 -	Y. Zhang, et. al, “Maximum Correntropy Criterion Based Target tracking in NLOS UWSNs” (In preparation)
@@ -131,7 +130,8 @@ My research interest includes:
 - Digital Logic and Digital System Design, 2023-2024-1/2024-2025-1
 
 # 🔥 News 
-- 
+- Apr. 30, 2025: Our paper entitled “<b>3-D RSSD Localization under Mixed Gaussian Noise and NLOS environments in UWSNs</b>” has been accepted in <b>IEEE Internet of Things Journal</b>.
+
 
 [<a href="C.V_English_yyzhang.pdf">Bio/CV</a>]
 
