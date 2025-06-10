@@ -70,7 +70,6 @@ My research interest includes:
 
 ### Submitted/prepared papers
 ---
--	L. Liang, H. Wu, X. Mei, Q. Zhang, Y. Zhang, J. Xian, K.-C. Li, "Robust 3D Target Localization in WSNs: A RotQCP Approach for NLOS Mitigation ” IEEE Internet of Things Journal, 2025.（under review）(SCI，JCR Q1，IF：8.2)
 -	Y. Zhang, G. Xie, T. A. Gulliver, H. Wu, X. Mei, “Bias Mitigation for RSSD-Based Localization under Byzantine Attacks,” Electronics Letters, 2024.（under review）
 -	Y. Zhang, et. al, “Maximum Correntropy Criterion Based Target tracking in NLOS UWSNs” (In preparation)
 -	Y. Zhang, et. al, “RSSD Based 3-D Localization under Spoofing Attacks for Internet of Underwater Things” (In preparation)
@@ -130,6 +129,7 @@ My research interest includes:
 - Digital Logic and Digital System Design, 2023-2024-1/2024-2025-1
 
 # 🔥 News 
+- Jue. 9, 2025: Our paper entitled “<b>Robust 3D Target Localization in WSNs: A RotQCP Approach for NLOS Mitigation</b>” has been accepted in <i>IEEE Internet of Things Journal</i>.
 - Apr. 30, 2025: Our paper entitled “<b>3-D RSSD Localization under Mixed Gaussian Noise and NLOS environments in UWSNs</b>” has been accepted in <i>IEEE Internet of Things Journal</i>.
 - Mar. 13, 2025: Our paper entitled “<b>Robust and Precise Drowning Target Localization under Dual-parameters Uncertainty</b>” has been published in <i>Regional Studies in Marine Science</i>.
 - Feb. 15, 2025: Our paper entitled “<b>Novel Polarization Construction Method and Synchronization Algorithm for Underwater Acoustic Channel Under T-Distribution Noise Environment</b>” has been published in <i>Journal of Marine Science and Engineering</i>.
