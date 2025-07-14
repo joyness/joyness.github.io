@@ -129,6 +129,8 @@ My research interest includes:
 - Digital Logic and Digital System Design, 2023-2024-1/2024-2025-1
 
 # 🔥 News 
+- Jul. 4, 2025: Our paper entitled “<b>Novel robust and accurate localization algorithm for underwater search and rescue wireless sensor networks under unknown marine dynamic environmental factors</b>” has been published in <i>Ocean Engineering</i>.
+- Jul. 3, 2025: Our paper entitled “<b>An Efficient and Revocable PUF-based Authentication Scheme for Secure V2R Mutual Communication in VANETs</b>” has been published in <i>IEEE Internet of Things Journal</i>.
 - Jue. 9, 2025: Our paper entitled “<b>Robust 3D Target Localization in WSNs: A RotQCP Approach for NLOS Mitigation</b>” has been accepted in <i>IEEE Internet of Things Journal</i>.
 - Apr. 30, 2025: Our paper entitled “<b>3-D RSSD Localization under Mixed Gaussian Noise and NLOS environments in UWSNs</b>” has been accepted in <i>IEEE Internet of Things Journal</i>.
 - Mar. 13, 2025: Our paper entitled “<b>Robust and Precise Drowning Target Localization under Dual-parameters Uncertainty</b>” has been published in <i>Regional Studies in Marine Science</i>.
