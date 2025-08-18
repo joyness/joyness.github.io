@@ -70,7 +70,7 @@ My research interest includes:
 
 ### Submitted/prepared papers
 ---
--	Y. Zhang, G. Xie, T. A. Gulliver, H. Wu, X. Mei, “Bias Mitigation for RSSD-Based Localization under Byzantine Attacks,” Electronics Letters, 2024.（under review）
+-	Y. Zhang, T. A. Gulliver, H. Wu, X. Mei, “Bias Mitigation for RSSD-Based Localization under Byzantine Attacks,” Electronics Letters, 2024.（under review）
 -	Y. Zhang, et. al, “Maximum Correntropy Criterion Based Target tracking in NLOS UWSNs” (In preparation)
 -	Y. Zhang, et. al, “RSSD Based 3-D Localization under Spoofing Attacks for Internet of Underwater Things” (In preparation)
 
@@ -88,6 +88,7 @@ My research interest includes:
 -	J. Xian, J. Ma, H. Wu, Y. Yang, X. Mei, X. Chen, and <b>Y. Zhang</b>, “A Marine Search and Rescue Wireless Sensor Network Communication Method, Device and Storage Medium”, CN Patent, 202210840637.6. (Granted)
 
 # 🎖 Honors and Awards
+- *2025* Selected for Changzhou Longcheng Talent Program – Young Talents Support Project.
 - *2023* Win the Outstanding Research Award.
 - *2022* Win the Outstanding Research Award.
 - *2021* Win the National Study Abroad Fund(Awarded by China Scholarship Council (CSC)).
@@ -96,6 +97,7 @@ My research interest includes:
 # 💬 Projects
 ### Principle Investigator
 ---
+- Research on Wireless Localization and Tracking Technologies (Sponsored by the Jiangsu Association for Science and Technology (the Municipal Science and Technology Associations))
 - Research on Key Technologies of Localization and Tracking in Ocean Sensor Networks, Grant No. CJ20240068 (Sponsored by Changzhou Science and Technology Committee)
 -	Application of Underwater Acoustics and Wireless Sensor Network in Transportation, Grant No. 202108310196 (Sponsored by China Scholarship Council)
 
