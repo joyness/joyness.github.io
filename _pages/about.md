@@ -70,13 +70,13 @@ My research interest includes:
 
 ### Submitted/prepared papers
 ---
--	Y. Zhang, T. A. Gulliver, H. Wu, X. Mei, “Bias Mitigation for RSSD-Based Localization under Byzantine Attacks,” Electronics Letters, 2024.（under review）
+-	Y. Zhang, T. A. Gulliver, H. Wu, X. Mei, et. al, “RSSD-Based UAV Secure Localization Against Malicious Attacks,” Ain Shams Engineering Journal, 2025.（under review)
 -	Y. Zhang, et. al, “Maximum Correntropy Criterion Based Target tracking in NLOS UWSNs” (In preparation)
 -	Y. Zhang, et. al, “RSSD Based 3-D Localization under Spoofing Attacks for Internet of Underwater Things” (In preparation)
 
 # 📃 Patents
 - <b>Y. Zhang</b>, J. Li, P. Wang et al, “A Robust Positioning Method for Wireless Sensor Networks with Uncertain Anchor Position” CN Patent, 202410569694.4. (Submitted).
--	<b>Y. Zhang</b>, J. Li, L. Gu et al, “A Method and System for Constructing Efficient Estimator for Source Localization based on Mixed Measurement Information” CN Patent, 202410434928.4. (Submitted).
+-	<b>Y. Zhang</b>, J. Li, L. Gu et al, “A Method and System for Constructing Efficient Estimator for Source Localization based on Mixed Measurement Information” CN Patent, 202410434928.4. (Substantive examination).
 -	H. Wu, <b>Y. Zhang</b>, “An Estimation Method and Device of Wave Parameter”, CN Patent, 202010994654.6. (Granted)
 -	H. Wu, <b>Y. Zhang</b> et al, “A Real-time Underwater Acoustic Positioning Algorithm based on the IDE-BP Neural Network”, CN Patent, 202310306368.X (Substantive examination)
 -	H. Wu, <b>Y. Zhang</b> et al, “A RSSD localization method in Gaussian mixture noise environment”, CN Patent, 202211551709.1 (Substantive examination)
@@ -118,6 +118,7 @@ My research interest includes:
 - Reviewer of IEEE Signal Processing Letters
 - Reviewer of Digital Signal Processing
 - Reviewer of Journal of Supercomputing
+- Reviewer of Annals of Telecommunications
 -	Reviewer of Concurrency and Computation: Practice and Experience
 -	Reviewer of IEEE Sensors Letters
 -	Reviewer of Photonics
@@ -127,8 +128,8 @@ My research interest includes:
 # 📚 Teaching
 - Literature Retrieval and Scientific Paper Writing, 2024-2025-2
 - Basics of Computer Circuits, 2023-2024-2/2024-2025-2
-- Digital Logic System Course Design, 2023-2024-1/2024-2025-1
-- Digital Logic and Digital System Design, 2023-2024-1/2024-2025-1
+- Digital Logic System Course Design, 2023-2024-1/2024-2025-1/2025-2026-1
+- Digital Logic and Digital System Design, 2023-2024-1/2024-2025-1/2025-2026-1
 
 # 🔥 News 
 - Jul. 4, 2025: Our paper entitled “<b>Novel robust and accurate localization algorithm for underwater search and rescue wireless sensor networks under unknown marine dynamic environmental factors</b>” has been published in <i>Ocean Engineering</i>.
