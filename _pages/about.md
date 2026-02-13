@@ -117,6 +117,7 @@ My research interest includes:
 - Reviewer of IEEE Transactions on Signal and Information Processing over Networks
 - Reviewer of IEEE Transactions on Vehicular Technology
 - Reviewer of IEEE Signal Processing Letters
+- Reviewer of Results in Engineering
 - Reviewer of Ocean Engineering
 - Reviewer of Digital Signal Processing
 - Reviewer of Journal of Supercomputing
