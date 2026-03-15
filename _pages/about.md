@@ -135,6 +135,7 @@ My research interest includes:
 - Digital Logic and Digital System Design, 2023-2024-1/2024-2025-1/2025-2026-1
 
 # 🔥 News 
+- Mar. 9, 2026: Our paper entitled “<b>An Anonymous and Revocable Authentication Scheme with Session Key Agreement for V2R Communications</b>” has been accepted in <i>IEEE Transactions on Vehicular Technology</i>.
 - Nov. 20, 2025: Our paper entitled “<b>An Efficient and Anonymous Authentication Scheme with Session Key Agreement for Vehicular Ad Hoc Networks</b>” has been accepted in <i>IEEE Transactions on Intelligent Transportation Systems</i>.
 - Jul. 4, 2025: Our paper entitled “<b>Novel robust and accurate localization algorithm for underwater search and rescue wireless sensor networks under unknown marine dynamic environmental factors</b>” has been published in <i>Ocean Engineering</i>.
 - Jul. 3, 2025: Our paper entitled “<b>An Efficient and Revocable PUF-based Authentication Scheme for Secure V2R Mutual Communication in VANETs</b>” has been published in <i>IEEE Internet of Things Journal</i>.
