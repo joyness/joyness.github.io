@@ -118,6 +118,7 @@ My research interest includes:
 - Reviewer of IEEE Transactions on Vehicular Technology
 - Reviewer of IEEE Signal Processing Letters
 - Reviewer of Results in Engineering
+- Reviewer of Journal of Traffic and Transportation Engineering-English Edition
 - Reviewer of Ocean Engineering
 - Reviewer of Digital Signal Processing
 - Reviewer of Journal of Supercomputing
@@ -135,6 +136,7 @@ My research interest includes:
 - Digital Logic and Digital System Design, 2023-2024-1/2024-2025-1/2025-2026-1
 
 # 🔥 News 
+- Apr. 15, 2026: Our paper entitled “<b>Environment-Aware Enhanced Distributed Target Localization in UWOSNs with Unknown Path Loss Exponent and Heavy-Tailed Noise</b>” has been accepted in <i>IEEE Internet of Things Journal</i>.
 - Mar. 20, 2026: Our paper entitled “<b>Polar codes construction and synchronization algorithm for efficient transmission of underwater situational awareness information in autonomous ship navigation</b>” has been accepted in <i>Ocean Engineering</i>.
 - Mar. 9, 2026: Our paper entitled “<b>An Anonymous and Revocable Authentication Scheme with Session Key Agreement for V2R Communications</b>” has been accepted in <i>IEEE Transactions on Vehicular Technology</i>.
 - Nov. 20, 2025: Our paper entitled “<b>An Efficient and Anonymous Authentication Scheme with Session Key Agreement for Vehicular Ad Hoc Networks</b>” has been accepted in <i>IEEE Transactions on Intelligent Transportation Systems</i>.
