@@ -138,6 +138,7 @@ My research interest includes:
 - Digital Logic and Digital System Design, 2023-2024-1/2024-2025-1/2025-2026-1
 
 # 🔥 News 
+- Oct. 18, 2026: Our paper entitled “<b>Comparisons of Two RBF-FD Approaches Based on Polyharmonic Splines for Solving the Shallow Water Equations on the Sphere</b>” has been published in <i>Atmosphere</i>.
 - Jul. 13, 2026: Our paper entitled “<b>Quantum-Inspired Bio-Optimization for Robust Received Signal Strength-Based Underwater Target Localization in Noisy Stratified Acoustic Environments</b>” has been published in <i>Journal of Marine Science and Engineering</i>.
 - Apr. 15, 2026: Our paper entitled “<b>Environment-Aware Enhanced Distributed Target Localization in UWOSNs with Unknown Path Loss Exponent and Heavy-Tailed Noise</b>” has been accepted in <i>IEEE Internet of Things Journal</i>.
 - Mar. 20, 2026: Our paper entitled “<b>Polar codes construction and synchronization algorithm for efficient transmission of underwater situational awareness information in autonomous ship navigation</b>” has been accepted in <i>Ocean Engineering</i>.
